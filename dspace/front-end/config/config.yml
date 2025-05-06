@@ -1,0 +1,5 @@
+rest:
+  ssl: true
+  host: dspace.mokipro.fc.eah-jena.de
+  port: 443
+  nameSpace: /server
